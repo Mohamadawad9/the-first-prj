@@ -1,0 +1,21 @@
+h1{color: crimson;
+font-size: 40px;}
+
+img{
+    width: 300px;
+    height: 300px;
+
+}
+.x:hover{
+    border-radius: 50%;
+}
+p{font-size: 20px;
+color: aqua;
+
+}
+a{
+    color: aqua;
+}
+a:hover{
+    color: rgb(220, 43, 226);
+}
